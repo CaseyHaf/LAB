@@ -5,7 +5,7 @@ public class Slide1 {
         a = (1);
         d = (1.0);
 
-        a=(46%9+9+4*4-2);
+        a=(46%9+4*4-2);
         System.out.println("jawaban a1 " + a);
 
         a=(45+43%5*(23*3%2));
